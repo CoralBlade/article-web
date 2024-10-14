@@ -1,0 +1,25 @@
+{
+  "title": "我的小说",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章：新的开始"
+    },
+    {
+      "number": 2,
+      "title": "第二章：意外发现"
+    },
+    {
+      "number": 3,
+      "title": "第三章：危机四伏"
+    },
+    {
+      "number": 4,
+      "title": "第四章：转机"
+    },
+    {
+      "number": 5,
+      "title": "第五章：结局"
+    }
+  ]
+}
